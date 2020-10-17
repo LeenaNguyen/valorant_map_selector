@@ -1,7 +1,15 @@
 # Valorant Map Selector
 
 ## Overview
-The program has been constructed to randomly select a valorant map from the current roster of valorant map(s) available at the time of writing (16/10/2020). Running the program will lead to two pop up windows:
+The program has been constructed to randomly select a valorant map from the current roster of valorant map(s) available at the time of writing (16/10/2020). 
+
+  - Ascent
+  - Bind
+  - Haven
+  - Ice Box
+  - Split
+
+Running the program will lead to two pop up windows:
 
   - (1) Initial selection window
   - (2) Map selection window
