@@ -7,7 +7,7 @@ The program has been constructed to randomly select a valorant map from the curr
   - (2) Map selection window
 
 ## Screenshots
-![Alt text](/relative/path/to/screenshot.png?raw=true "Sceenshot")
+![Alt text](screenshot.png?raw=true "Sceenshot")
 ## Tech Framework
 
 ## Features
