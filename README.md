@@ -1,7 +1,7 @@
 # Valorant Map Selector
 
 ## Overview
-The program has been constructed to randomly select a valorant map from the current roster of valorant map(s) available at the time of writing (16/10/2020). 
+The python program has been constructed to randomly select a valorant map from the current roster of valorant map(s) available at the time of writing (16/10/2020). 
 
   - Ascent
   - Bind
