@@ -12,9 +12,6 @@ The program has been constructed to randomly select a valorant map from the curr
 ## How to use?
 Run the python file "Map_selector.py", a pop up should appear. Click on the button "click to generate VALORANT MAP". A second pop up will appear with the randomly selected map. Clicking on the button on the second map "ok", will close both pop up windows.
 
-## Contribute
-contribution guideline
-
 ## Credits
 Author: Leena Nguyen
 Last Modified: 16/10/2020
